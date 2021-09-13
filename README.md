@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @majid-nope
+- 👋 Hi, I’m @majidnope
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on any good project
