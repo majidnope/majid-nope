@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majid-nope
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently developing some software clone
 - 💞️ I’m looking to collaborate on any good project
 - 📫 U can contact me through email - muhammed0000majid@gmail.com
 
