@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majid-nope
 - 👀 I’m interested in Technology
-- 🌱 I’m currently developing some web applications and Designs
+- 🎫 My [Portfolio](www.majidnope.tech)
 - 💞️ I’m looking to collaborate on any good project
 - 📫 You can contact me through email - muhammed0000majid@gmail.com
 
