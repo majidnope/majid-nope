@@ -1,6 +1,6 @@
 - 👋 Hello, My name is muhammed Majid working as a full-stack developer
 - 🤩 I’m just addicted to Technology
-- 🎫 My [Portfolio](www.majidnope.tech)
+- 🎫 www.majidnope.tech
 - 💞️ I’m looking to collaborate on any good project and also for freelance work
 - 📫 You can contact me through email - muhammed0000majid@gmail.com
 
