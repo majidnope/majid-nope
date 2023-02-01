@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Muhammed Majid</h1>
+<h1 style="text-align:center">Muhammed Majid</h1>
 <h4 style="text-align:center;">A Full-Stack Developer</h4>
 - 🤩 I’m just addicted to Technology
 - 🎫 www.majidnope.tech
