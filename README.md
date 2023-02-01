@@ -1,4 +1,5 @@
-- 👋 Hello, My name is muhammed Majid working as a full-stack developer
+<h1 style="text-align:center;">Muhammed Majid</h1>
+<h4 style="text-align:center;">A Full-Stack Developer</h4>
 - 🤩 I’m just addicted to Technology
 - 🎫 www.majidnope.tech
 - 💞️ I’m looking to collaborate on any good project and also for freelance work
